@@ -39,7 +39,6 @@ import add_icon from '../public/addsquare.png';
 
 <style scoped>
 .header_flex_container{
-    position: fixed;
     display: flex;
     justify-content: space-between;
     width: 100%;

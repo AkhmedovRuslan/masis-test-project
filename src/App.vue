@@ -60,7 +60,7 @@ let collapsed = ref(false);
 .view_container {
   display: flex;
   width: 100%;
-  margin-top: 11.5rem;
+  margin-top: .5rem;
   margin-left: 2rem;
   gap: 2.5rem;
   align-content: start;

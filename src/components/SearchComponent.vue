@@ -46,14 +46,13 @@ import join_icon from '../public/link2.png';
 <style scoped>
 
 .search_container {
-    position: fixed;
     display: flex;
     align-items: center;
     justify-content: space-between;
     background: #F8F7FD;
     height: 3.5rem;
     width: 100%;
-    margin-top: 6.2rem;
+    margin-top: .7rem;
     margin-bottom: 2rem;
 }
 
