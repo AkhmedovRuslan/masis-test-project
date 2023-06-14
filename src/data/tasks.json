@@ -1,0 +1,190 @@
+[
+        {
+            "id": 0,
+            "title": "Новые",
+            "tasks": [
+                {
+                    "id": 22,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 0,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Пушкина, 1",
+                    "comments": ""
+                },
+                {
+                    "id": 21,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 0,
+                    "taskType": "Излив на рельеф",
+                    "address": "Геленджик, ул. Морская, 24",
+                    "comments": ""
+                },
+                {
+                    "id": 20,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 0,
+                    "taskType": "Повреждение асфальта",
+                    "address": "Геленджик, ул. Одесская, 11",
+                    "comments": ""
+                },
+                {
+                    "id": 18,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 0,
+                    "taskType": "Вызов представителя",
+                    "address": "Геленджик, ул. Некрасова, 19",
+                    "comments": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "В работе",
+            "tasks": [
+                {
+                    "id": 17,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 73,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 16,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 73,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 16,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 72,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 15,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 72,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 14,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 71,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 13,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7(999)123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 71,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Выполнены",
+            "tasks": [
+                {
+                    "id": 12,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 70,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 11,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 69,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 10,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 68,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 9,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 67,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                },
+                {
+                    "id": 1,
+                    "recievedFrom": "Phone",
+                    "clientName": "",
+                    "phone": "+7 (999) 123-45-67",
+                    "clientType": "Individual",
+                    "orderId": 66,
+                    "taskType": "Течь на земле",
+                    "address": "Геленджик, ул. Володина, 51",
+                    "comments": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Отменены",
+            "tasks": []
+        }
+    ]
